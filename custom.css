@@ -1,3 +1,16 @@
 .MMM-SimpleText {
 	background-color: red;
 }
+
+.calendar .title, .time{
+	font-size:  30px;
+ }
+
+ .clock clockSecond {
+ 	color:  red;
+  }
+
+  .TextMessageModule {
+      color: red;
+      font-size: 25em;
+       }
