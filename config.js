@@ -10,7 +10,7 @@
       "LOG",
       "WARN",
       "ERROR",
-      "DEBUG"
+//      "DEBUG"
     ],
     timeFormat: 24,
     units: "metric",
@@ -121,7 +121,8 @@
           calendars: [
             {
               //url: "https://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics",
-              url: "http://localhost:8090/modules/default/calendar/fribble.ics",
+              //url: "http://localhost:8090/modules/default/calendar/fribble.ics".
+              url: "http://localhost:8090/modules/default/calendar/calendar_test_recurring.ics",
               symbol: "calendar",
               color: "#efefef",
               name: "Rags Calendar"
